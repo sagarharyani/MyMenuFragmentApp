@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_show_fragment"
+        android:title="Show Fragment"/>
+    <item
+        android:id="@+id/action_show_dialog_fragment"
+        android:title="Show Dialog Fragment"/>
+</menu>
